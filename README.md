@@ -14,4 +14,4 @@
 - `password`：密码输入，注意一般同时设置`mask: '*'`，否则看不见输入的字符
 - `editor`：打开选择的编辑器进行输入
 
-![question-type](qa.gif)
+![question-type](assets/qa.gif)
