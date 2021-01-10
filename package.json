@@ -1,0 +1,14 @@
+{
+  "name": "inquirer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "scripts": {
+    "checkbox": "node checkbox.js",
+    "qa": "node question.js"
+  }
+}
