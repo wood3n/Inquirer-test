@@ -6,10 +6,14 @@
   "private": true,
   "dependencies": {
     "chalk": "^4.1.0",
-    "inquirer": "^7.3.3"
+    "cowsay": "^1.4.0",
+    "inquirer": "^7.3.3",
+    "yosay": "^2.0.2"
   },
   "scripts": {
     "qa": "node question.js",
-    "ck": "node chalk.js"
+    "ck": "node chalk.js",
+    "cow": "node cowsay.js",
+    "yosay": "node yosay.js"
   }
 }
