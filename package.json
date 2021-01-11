@@ -5,9 +5,11 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "chalk": "^4.1.0",
     "inquirer": "^7.3.3"
   },
   "scripts": {
-    "qa": "node question.js"
+    "qa": "node question.js",
+    "ck": "node chalk.js"
   }
 }
